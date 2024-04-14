@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   my-gh-chart:
   - apiVersion: v2
+    appVersion: 1.17.0
+    created: "2024-04-14T10:31:52.2202762+10:00"
+    description: A Helm chart for Kubernetes
+    digest: d57c203102f0d63997ee0ce68dcde006cde8c624419287518e35dde90e68de4f
+    name: my-gh-chart
+    type: application
+    urls:
+    - my-gh-chart-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-04-14T10:29:12.5205404+10:00"
+    created: "2024-04-14T10:31:52.2192253+10:00"
     description: A Helm chart for Kubernetes
     digest: 40c521a158a5e48bf7681ef9d3a015c67e6e4f4ac2ed27eb0ce080c2fb7bca1e
     name: my-gh-chart
@@ -11,4 +21,4 @@ entries:
     urls:
     - my-gh-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2024-04-14T10:29:12.5170202+10:00"
+generated: "2024-04-14T10:31:52.2149424+10:00"
